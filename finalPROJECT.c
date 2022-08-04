@@ -198,7 +198,6 @@ int main()
     int i,j,r;
     char choice;
     char choice2;
-    char choice3;
     char guess;
     int age;
     system("color E0");
